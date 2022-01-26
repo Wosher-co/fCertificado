@@ -1,0 +1,11 @@
+{
+  "home_cert": "Vaccine Certificate",
+  "home_dni": "DNI",
+  "home_creator": "Creator",
+  "home_donation": "Donate",
+  "cert_select_title": "Initial Setup",
+  "cert_select_start_guide": "To start, you need to select the certificate you want to add.",
+  "cert_select_guide": "Select the certificate you want to add.",
+  "cert_select_pdf": "Select a PDF cert",
+  "cert_select_image": "Select an image cert"
+}
